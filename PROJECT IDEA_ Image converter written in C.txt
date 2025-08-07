@@ -1,0 +1,21 @@
+﻿PROJECT IDEA: Image converter written in C
+
+
+Name: iMagick - the most magical image converter known to mankind
+
+
+Frontend:
+Intro
+Menu for image format to be converted
+Menu for image format to convert to
+Insert image
+Conversion happens
+You get product
+
+
+Backend:
+Printing some message
+Switches?
+File I/o?
+Something something
+Hopefully it works :)
