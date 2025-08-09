@@ -14,3 +14,5 @@ Gonna finish this update for now in the README!
 8/5/25
 Read up to arrays, and will do examples for it. Will update entry if there are points not worth writing code.
 update: finished the first example of arrays.
+8/8/25 
+Finished array and type definitions of chapter 2 of effective C book, I am not gonna lie I have getting a lot of crashouts recently, unrelated to this github project but it is unfortunately seeping into my work, will try to get my life fixed together once again
