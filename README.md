@@ -22,3 +22,7 @@ will try to get my life fixed together once again
 8/10/25 
 Finished with the struct portion of chapter 2 of effective C, easier to understand then array still, actually wrote some of the example code
 this time, wished though the exmaple code was complete :( 
+
+8/12/25 
+read the tags portion of ch 2 of Effective C but here again the book offers weird usecases that are a bit hard to understand but
+I will write the code portion that makes the most sense to me.
